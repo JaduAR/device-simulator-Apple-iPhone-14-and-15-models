@@ -1,10 +1,10 @@
 {
-    "friendlyName": "Apple iPhone 14 Pro",
+    "friendlyName": "Apple iPhone 15 Pro Max",
     "version": 1,
     "screens": [
         {
-            "width": 1179,
-            "height": 2556,
+            "width": 1290,
+            "height": 2796,
             "navigationBarHeight": 0,
             "dpi": 460.0,
             "orientations": [
@@ -14,8 +14,8 @@
                         "serializedVersion": "2",
                         "x": 0.0,
                         "y": 102.0,
-                        "width": 1179.0,
-                        "height": 2277.0
+                        "width": 1290.0,
+                        "height": 2517.0
                     }
                 },
                 {
@@ -24,8 +24,8 @@
                         "serializedVersion": "2",
                         "x": 0.0,
                         "y": 177.0,
-                        "width": 1179.0,
-                        "height": 2277.0
+                        "width": 1290.0,
+                        "height": 2517.0
                     }
                 },
                 {
@@ -34,8 +34,8 @@
                         "serializedVersion": "2",
                         "x": 177.0,
                         "y": 63.0,
-                        "width": 2202.0,
-                        "height": 1116.0
+                        "width": 2442.0,
+                        "height": 1227.0
                     }
                 },
                 {
@@ -44,24 +44,24 @@
                         "serializedVersion": "2",
                         "x": 177.0,
                         "y": 63.0,
-                        "width": 2202.0,
-                        "height": 1116.0
+                        "width": 2442.0,
+                        "height": 1227.0
                     }
                 }
             ],
             "presentation": {
-                "overlayPath": "Overlays/iPhone 14 Pro.png",
+                "overlayPath": "Overlays/iPhone 15 Pro Max.png",
                 "borderSize": {
-                    "x": 67.0,
-                    "y": 67.0,
-                    "z": 67.0,
-                    "w": 67.0
+                    "x": 80.0,
+                    "y": 72.0,
+                    "z": 80.0,
+                    "w": 70.0
                 }
             }
         }
     ],
     "systemInfo": {
-        "deviceModel": "iPhone15,2",
+        "deviceModel": "iPhone16,2",
         "deviceType": 1,
         "operatingSystem": "iOS 17.0",
         "operatingSystemFamily": 0,
@@ -79,7 +79,7 @@
             {
                 "graphicsDeviceType": 16,
                 "graphicsMemorySize": 1024,
-                "graphicsDeviceName": "Apple A16 GPU",
+                "graphicsDeviceName": "Apple A17 GPU",
                 "graphicsDeviceVendor": "Apple",
                 "graphicsDeviceID": 0,
                 "graphicsDeviceVendorID": 0,

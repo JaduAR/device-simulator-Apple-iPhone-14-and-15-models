@@ -1,5 +1,5 @@
 {
-    "friendlyName": "Apple iPhone 14 Pro",
+    "friendlyName": "Apple iPhone 15",
     "version": 1,
     "screens": [
         {
@@ -35,7 +35,7 @@
                         "x": 177.0,
                         "y": 63.0,
                         "width": 2202.0,
-                        "height": 1116.0
+                        "height": 1107.0
                     }
                 },
                 {
@@ -45,23 +45,23 @@
                         "x": 177.0,
                         "y": 63.0,
                         "width": 2202.0,
-                        "height": 1116.0
+                        "height": 1107.0
                     }
                 }
             ],
             "presentation": {
-                "overlayPath": "Overlays/iPhone 14 Pro.png",
+                "overlayPath": "Overlays/iPhone 15.png",
                 "borderSize": {
-                    "x": 67.0,
-                    "y": 67.0,
-                    "z": 67.0,
-                    "w": 67.0
+                    "x": 80.0,
+                    "y": 70.0,
+                    "z": 80.0,
+                    "w": 70.0
                 }
             }
         }
     ],
     "systemInfo": {
-        "deviceModel": "iPhone15,2",
+        "deviceModel": "iPhone15,4",
         "deviceType": 1,
         "operatingSystem": "iOS 17.0",
         "operatingSystemFamily": 0,
