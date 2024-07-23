@@ -1,4 +1,4 @@
-# com.unity.device-simulator-Apple-iPhone14-Pro
+#  Unity Device Simulator Definitions For All iPhone 15 & 15 Models
 A simple .device (Device Info Asset) JSON file with settings for the iPhone 14 Pro and a device border adjusted to the standard style of Unity devices. 
 
 Hardware specifications taken from the Apple website:
