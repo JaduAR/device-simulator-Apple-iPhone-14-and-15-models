@@ -1,4 +1,4 @@
-#  Unity Device Simulator Definitions For All iPhone 15 & 15 Models
+#  Unity Device Simulator Definitions For All iPhone 14 & 15 Models
 A simple .device (Device Info Asset) JSON file with settings for the iPhone 14 Pro and a device border adjusted to the standard style of Unity devices. 
 
 Hardware specifications taken from the Apple website:
@@ -15,7 +15,7 @@ Safe Area specifications taken from [Use Your Loaf](https://useyourloaf.com/):
 * [iPhone 15 Models ](https://useyourloaf.com/blog/iphone-15-screen-sizes/)
 
 # Installation Instructions
-* Create a folder in any folder in an existing Unity Project e.g. `<project directory>/Assets/Configs/Devices`.
+* In an existing Unity project, create a new folder in any directory e.g. `<project directory>/Assets/Configs/Devices`.
 * Copy the contents of this repository to the chosen folder.
 
 ### Known Issues
