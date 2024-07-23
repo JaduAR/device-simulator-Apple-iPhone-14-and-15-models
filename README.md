@@ -15,7 +15,7 @@ Safe Area specifications taken from [Use Your Loaf](https://useyourloaf.com/):
 * [iPhone 15 Models ](https://useyourloaf.com/blog/iphone-15-screen-sizes/)
 
 # Installation Instructions
-* In an existing Unity project, create a new folder Called `Devices` in any directory e.g. `<project directory>/Assets/Configs/Devices`.
+* In an existing Unity project, create a new folder called `Devices` in any directory e.g. `<project directory>/Assets/Configs/Devices`.
 * Copy the contents of this repository to the chosen folder.
 
 ### Known Issues
